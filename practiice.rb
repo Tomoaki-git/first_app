@@ -1,0 +1,1 @@
+rails _6.0.0.0_ new putput_app -d MySQL
